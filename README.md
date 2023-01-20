@@ -1,4 +1,4 @@
-### document.write("Forget!") 👋
+### document.write("A evolução faz parte do processo de quem almeja alcançar o sucesso!") 👋
 
 <div align="center">
   <a href="https://github.com/jaummsilva">
