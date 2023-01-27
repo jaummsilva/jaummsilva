@@ -15,7 +15,7 @@
     <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="VueJs" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
-  mg align="center" alt="VueJs" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=125&color=363636" />
+  <img align="center" alt="VueJs" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=125&color=363636" />
   
 </div>
 
