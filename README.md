@@ -9,9 +9,8 @@
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">    
   <img align="center" alt="Php" height="30" width="30" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Laravel" height="30" width="30" src="https://icongr.am/devicon/laravel-plain.svg?size=128&color=currentColor">
-    <img align="center" alt="Laravel" height="30" width="30" src="  https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor
-">
+  <img align="center" alt="Laravel" height="30" width="30" src="https://icongr.am/devicon/laravel-plain.svg?size=128&color=ffffff">
+  <img align="center" alt="Laravel" height="30" width="30" src="  https://icongr.am/devicon/mysql-original.svg?size=128&color=ffffff">
   
 </div>
 
