@@ -10,8 +10,8 @@
   <br>
   <img  align="center" alt="JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">    
   <img style="margin-left:5px;" align="center" alt="Php" height="30" width="30" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
-  <img style="margin-left:5px;" align="center" alt="Laravel" height="30" width="30" src="https://icongr.am/devicon/laravel-plain.svg?size=128&color=ffffff">
-  <img style="margin-left:5px;" align="center" alt="Mysql" height="30" width="30" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=ffffff">
+  <img style="margin-left:5px;" align="center" alt="Laravel" height="30" width="30" src="https://icongr.am/devicon/laravel-plain.svg?size=128&color=currentColor">
+  <img style="margin-left:5px;" align="center" alt="Mysql" height="30" width="30" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
   
 </div>
 
